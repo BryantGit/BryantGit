@@ -1,5 +1,7 @@
-# 💫 About Me:
-Soy un desarrollador Full-Stack con experiencia en el desarrollo de aplicaciones web y de escritorio basadas en tres capas de seguridad. Mi enfoque principal es garantizar la seguridad, eficiencia y usabilidad de las aplicaciones que desarrollo. No me limito a escribir código; constantemente busco formas de mejorar la eficiencia y la experiencia del usuario.
+👋 Hi, I'm Bryant Ponce
+💻 Full-Stack Developer | C# · .NET · Angular · SQL Server
+I’m a passionate Full-Stack Developer with experience building scalable, multi-layer web and desktop applications using modern Microsoft and JavaScript technologies.
+I care about delivering clean, efficient, and user-friendly solutions that solve real business problems.
 
 
 ## 🌐 Socials:
