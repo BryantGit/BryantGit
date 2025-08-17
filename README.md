@@ -10,7 +10,7 @@ I care about delivering clean, efficient, and user-friendly solutions that solve
 - Frontend: **Angular, TypeScript, Bootstrap**
 - Other: Azure DevOps, Git, APIs, CI/CD
 
-Always learning, always improving — currently exploring **Blazor** and **Machine Learning with Python**.
+Always learning, always improving — currently exploring **React** and **Machine Learning and AI with Python**.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bryant-ponce/) 
